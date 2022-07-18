@@ -3,6 +3,6 @@ Django==4.0.6
 django-filter==22.1
 django-rest-knox==4.2.0
 djangorestframework==3.13.1
-Markdown==3.3.7
+Markdown==3.4.1
 psycopg2==2.9.3
 transmission-rpc==3.3.2
